@@ -22,7 +22,7 @@ const db = knex({
   }
 });
 
-module.exports = db;
+
 
 const app = express();
 
